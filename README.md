@@ -1,6 +1,6 @@
 # EasyPost Python Demo
 
-This is a demo using the EasyPost API in order to recieve different rates on parcel shipping.
+This is a demo using the EasyPost API in order to receive different rates on parcel shipping.
 
 Before running, make sure you install easypost via pip with:
 
