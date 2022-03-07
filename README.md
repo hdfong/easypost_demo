@@ -18,5 +18,5 @@ easypost.api_key = "API_KEY"
 
 Below are screenshots of what the app looks like:
 
-<img width="590" alt="Screen Shot 2022-03-05 at 6 40 02 PM" src="https://user-images.githubusercontent.com/36744752/157099609-907af713-b190-4734-b1ca-a2f07f5e1290.png">
-<img width="590" alt="Screen Shot 2022-03-05 at 6 40 09 PM" src="https://user-images.githubusercontent.com/36744752/157099615-8e3d0e41-1161-43bb-a670-5a5641203128.png">
+<img width="590" alt="Screen Shot 2022-03-07 at 11 06 08 AM" src="https://user-images.githubusercontent.com/36744752/157101054-af8022a2-3047-4ce1-ae1b-a8943736bb51.png">
+<img width="590" alt="Screen Shot 2022-03-07 at 11 06 19 AM" src="https://user-images.githubusercontent.com/36744752/157101065-6b8d95d9-7169-4a57-ac66-da700ca68452.png">
