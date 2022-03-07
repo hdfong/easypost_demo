@@ -15,3 +15,9 @@ Also, make sure to input your own API key at the top.
 import easypost
 easypost.api_key = "API_KEY"
 ```
+
+Below are screenshots of what the app looks like:
+
+<img width="620" alt="Screen Shot 2022-03-05 at 6 39 44 PM" src="https://user-images.githubusercontent.com/36744752/157099563-5ea5c9ad-9b82-4b5f-9fac-4b3c937ac149.png">
+<img width="590" alt="Screen Shot 2022-03-05 at 6 40 02 PM" src="https://user-images.githubusercontent.com/36744752/157099609-907af713-b190-4734-b1ca-a2f07f5e1290.png">
+<img width="590" alt="Screen Shot 2022-03-05 at 6 40 09 PM" src="https://user-images.githubusercontent.com/36744752/157099615-8e3d0e41-1161-43bb-a670-5a5641203128.png">
